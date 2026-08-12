@@ -33,13 +33,12 @@ Atuo em infraestrutura e gestão de identidades (Microsoft Entra ID / Azure AD) 
 ### 📜 Certificações
 - Analista SOC na Era da IA — IBSEC
 - Networking Basics — Cisco
-(Adicione outras certificações conforme quiser exibir)
 
 ---
 
 ### 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/diogo-abreu14/
-- Email: seu.email@exemplo.com
+- Email: diogoabreu1407@gmail.com
 
 ---
 
