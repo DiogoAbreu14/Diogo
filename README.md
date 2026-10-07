@@ -16,12 +16,6 @@ Atuo em infraestrutura e gestão de identidades (Microsoft Entra ID / Azure AD) 
 ---
 
 ### ⭐ Projetos / Destaques
-- Projeto A — Automação de empacotamento e deploy via Intune (PowerShell) (link)
-- Projeto B — Dashboards de indicadores (Power BI) para monitoramento operacional (link)
-- Projeto C — Scripts e ferramentas internas para triagem/automação de chamados (link)
-
-(Adicione links reais aos repositórios acima. Se preferir, eu posso sugerir quais repos públicos pinnear.)
-
 ---
 
 ### 🏢 Experiência
